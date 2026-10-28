@@ -1,0 +1,17 @@
+{
+  "id": "./index.html",
+  "name": "Study Desk MI.IS.MAN",
+  "short_name": "Study Desk",
+  "description": "Archivio di studio offline con OCR, riassunti, test e simulazioni MI.IS.MAN.",
+  "lang": "it-IT",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f5fa",
+  "theme_color": "#5b5bd6",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
